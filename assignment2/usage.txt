@@ -1,3 +1,0 @@
-./calc.sh [S, P, M, m] 1 2 3 4 5 ... , where S is for Sum, P is for Multiple, M if for Max, m is for Min
-./clock.sh (--AMPM)   , where the flag is optional
-./subway.sh ([Majorstuen, Blindern]) ([--E, --W])  , where both placename (Default: Forskningsparken) and flag are optional
